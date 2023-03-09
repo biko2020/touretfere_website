@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^/$ /touretfere_website/pages/index.php [L]
+DirectoryIndex pages/index.php index.html default.html

@@ -18,23 +18,30 @@
   <link rel="stylesheet" href="assets/css/bootstrap.css">
   <link rel="stylesheet" href="assets/css/style.css">
 
+  
 
 </head>
-<body>
+  <body>
+    <div class="page"> 
+      
+        <!--header.html-->
+        <?php include ('../templates/header.html'); ?>
 
-    <!--header.html-->
-    <?php include ('../templates/header.html'); ?>
+        <!-- hero section -->
+        <?php include('../templates/hero.html'); ?>
 
-    <!--main.html-->
-    <?php include ('../templates/main.html') ?>
+        <!--main.html-->
+        <?php include ('../templates/main.html') ?>
 
-    <!--footer.html--> 
-    <?php include ('../templates/footer.html') ?>
+        <!--footer.html--> 
+        <?php include ('../templates/footer.html') ?>
+        
+    </div>
+    
+    <!----script js link--->
+    <script src="assets/scripts/core.min.js"></script>
+    <script src="assets/scripts/script.js"></script>
 
-  <!----script js link--->
-  <script src="assets/scripts/core.min.js"></script>
-  <script src="assets/scripts/script.js"></script>
-
-</body>
+  </body>
 
 </html>

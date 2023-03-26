@@ -1,3 +1,71 @@
+// add hero section
+class Hero extends HTMLElement {
+  connectedCallback() {
+    this.innerHTML = `    <!--hero-section-->
+    <section class="section swiper-container swiper-slider swiper-slider-classic" data-loop="true" data-autoplay="5000"
+      data-simulate-touch="true" data-direction="vertical" data-nav="false">
+      <div class="swiper-wrapper text-center">
+        <!--slide N 1-->
+        <div class="swiper-slide context-dark" data-slide-bg="./assets/images/slide/slider-1-1770x742.svg">
+          <div class="swiper-slide-caption section-md">
+            <div class="container">
+              <h2 data-caption-animate="fadeInLeft" data-caption-delay="0">
+                TOURNAGE ET FRAISAGE
+                </h3>
+                <p class="text-width-large" data-caption-animate="fadeInRight" data-caption-delay="100">
+                  Nous pouvons répondre favorablement à des demandes de tournage
+                  en fonction de caractéristiques techniques bien spécifiques.
+                </p>
+
+            </div>
+          </div>
+        </div>
+        <!--slide N 2-->
+        <div class="swiper-slide context-dark" data-slide-bg="./assets/images/slide/slider-2-1770x742.jpeg">
+          <div class="swiper-slide-caption section-md">
+            <div class="container">
+              <h2 data-caption-animate="fadeInLeft" data-caption-delay="0">
+                SURFAÇAGE
+              </h2>
+              <p class="text-width-large" data-caption-animate="fadeInRight" data-caption-delay="100">
+                Nous avons la possibilité d’usiner des aciers
+                (en fonction de la dureté), alliage, fonte, inox.
+              </p>
+
+            </div>
+          </div>
+        </div>
+        <!--slide N 3-->
+        <div class="swiper-slide context-dark" data-slide-bg="./assets/images/slide/slider-3-1770x742.jpeg">
+          <div class="swiper-slide-caption section-md">
+            <div class="container">
+              <h2 data-caption-animate="fadeInLeft" data-caption-delay="0">
+                TOUR ET FERE S'OCCUPE DE VOS PROJETS!
+              </h2>
+              <p class="text-width-large" data-caption-animate="fadeInRight" data-caption-delay="100">
+                Notre savoir-faire dans
+                ce domaine peut vous apporter des solutions techniques efficaces et
+                innovantes pour répondre à vos besoins et défis spécifiques.
+              </p>
+
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- BLUE POLYGONE -->
+      <div class="blue-polygone">
+        <img src="./assets/images/bule-Polygon.svg" alt="">
+      </div>
+
+    </section>`;
+}
+}
+customElements.define("include-hero", Hero);
+
+// add main section
+class Main extends HTMLElement {
+  connectedCallback() {
+    this.innerHTML = `    
     <!-- main-section -->
     <!-- section-One -->
     <section class="section section-sm section-fluid bg-default">
@@ -148,3 +216,7 @@
         </div>
       </div>
     </section>
+`;
+  }
+}
+customElements.define("include-main", Main);

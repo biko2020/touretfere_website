@@ -1,6 +1,8 @@
-<!--header-->
-
-  <header class="section page-header">
+// add header
+class Header extends HTMLElement {
+  connectedCallback() {
+    this.innerHTML = `
+    <header class="section page-header">
     <!--RD Navbar-->
     <div class="rd-navbar-wrap">
       <nav class="rd-navbar rd-navbar-classic" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed"
@@ -19,8 +21,8 @@
               </button>
               <!--Navbar logo-->
               <div class="rd-navbar-brand">
-                <a class="brand" href="index.html">
-                  <img src="./assets/images/logo--1024x279.svg" alt="Tour et Fere" width="229" height="43" /></a>
+                <a class="brand" href="./">
+                  <img src="assets/images/logo--1024x279.svg" alt="Tour et Fere" width="229" height="43" /></a>
               </div>
             </div>
             <div class="rd-navbar-main-element">
@@ -45,20 +47,20 @@
                 </div>
                 <!--Navbar Menu principale-->
                 <ul class="rd-navbar-nav">
-                  <li class="rd-nav-item active">
-                    <a class="rd-nav-link" href="index.php">accueil</a>
+                  <li class="rd-nav-item">
+                    <a class="rd-nav-link" href="./">accueil</a>
                   </li>
                   <li class="rd-nav-item">
-                    <a class="rd-nav-link" href="#">moyens</a>
+                    <a class="rd-nav-link" href="page-Moyens.html">moyens</a>
                   </li>
                   <li class="rd-nav-item">
-                    <a class="rd-nav-link" href="pages/apropos.php">à propos</a>
+                    <a class="rd-nav-link" href="page-Apropos.html">à propos</a>
                   </li>
                   <li class="rd-nav-item">
-                    <a class="rd-nav-link" href="#">références</a>
+                    <a class="rd-nav-link" href="page-reference.html">références</a>
                   </li>
                   <li class="rd-nav-item">
-                    <a class="rd-nav-link" href="#">contact</a>
+                    <a class="rd-nav-link" href="page-contact.html">contact</a>
                   </li>
                 </ul>
               </div>
@@ -76,3 +78,64 @@
       </nav>
     </div>
   </header>
+    `;
+    // Active current item
+    // Get the current page URL
+    const currentPageUrl = window.location.href;
+
+    // Find the "a" tag that matches the current page URL and add the "active" class to its parent "li" tag
+    const links = this.querySelectorAll("a");
+    links.forEach((link) => {
+      if (link.href === currentPageUrl) {
+        link.parentElement.classList.add("active");
+      }
+    });
+  }
+}
+customElements.define("include-header", Header);
+
+// add footer
+class Footer extends HTMLElement {
+  connectedCallback() {
+    this.innerHTML = `<!-- footer -->
+    <footer class="section section-fluid footer-classic">
+      <div class="container-fluid">
+    
+        <div class="row row-30 justify-content-center">
+    
+          <div class="col-lg-12  wow fadeInRight" data-wow-delay=".1s">
+    
+            <div class="box-footer">
+              <ul class="list-inline list-inline-sm footer-social-list">
+                <li><a class="icon fa fa-facebook" href="#"></a></li>
+                <li><a class="icon fa fa-twitter" href="#"></a></li>
+                <li><a class="icon fa fa-google-plus" href="#"></a></li>
+                <li><a class="icon fa fa-instagram" href="#"></a></li>
+              </ul>
+              <div class="footer-text">
+                <p>SIÈGE: Z1 Zenata Lot No 108, Ain Harrouda - Mohammedia Maroc</p>
+                <p>Tél. :+212 523 326 945 - Fax: +212 523 326 947 - E-mail: tef@touretfere.ma</p>
+              </div>
+    
+    
+            </div>
+          </div>
+    
+        </div>
+    
+    
+      </div>
+    
+      <div class="container footer-bottom-panel wow fadeInUp">
+        <!-- Rights-->
+        <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span> <span>Creator</span>. All rights
+          reserved. <span> Design&nbsp;by&nbsp;<a href="#">Aitouf</a></span>
+        </p>
+      </div>
+      <div class="footer-blue-box">
+      </div>
+    </footer>`;
+
+  }
+}
+customElements.define("include-footer", Footer);

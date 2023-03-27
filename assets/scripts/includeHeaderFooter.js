@@ -51,16 +51,13 @@ class Header extends HTMLElement {
                     <a class="rd-nav-link" href="./">accueil</a>
                   </li>
                   <li class="rd-nav-item">
-                    <a class="rd-nav-link" href="page-Moyens.html">moyens</a>
+                  <a class="rd-nav-link" href="page-fabrication.html">fabrication</a>
+                  </li>
+                  <li class="rd-nav-item">
+                    <a class="rd-nav-link" href="page-expertise-reparation.html">expertise/Réparation</a>
                   </li>
                   <li class="rd-nav-item">
                     <a class="rd-nav-link" href="page-Apropos.html">à propos</a>
-                  </li>
-                  <li class="rd-nav-item">
-                    <a class="rd-nav-link" href="page-reference.html">références</a>
-                  </li>
-                  <li class="rd-nav-item">
-                    <a class="rd-nav-link" href="page-contact.html">contact</a>
                   </li>
                 </ul>
               </div>

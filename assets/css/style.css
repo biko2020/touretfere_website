@@ -8270,9 +8270,18 @@ html.tablet .ui-to-top {
   padding: 0;
 }
 
+/* ADD SUBMENU */
 .rd-navbar-dropdown {
   display: none;
 }
+.rd-navbar-dropdown {
+  display: none;
+}
+
+.rd-nav-item:focus-within .rd-navbar-dropdown {
+  display: block;
+}
+/* ---- ----- ----- */
 
 /*
 * @subsection  RD Navbar Static
@@ -8374,7 +8383,8 @@ html.tablet .ui-to-top {
   left: 0;
   padding: 22px 15px 34px 34px;
   width: 270px;
-  background: #ffffff;
+  background: #fff;
+  opacity: 0.8;
   z-index: 5;
 }
 
@@ -8475,11 +8485,19 @@ html.tablet .ui-to-top {
   transition-delay: 0.1s;
 }
 
+/* SUBMENU ITEM LI A */
+
 .rd-navbar-static .rd-navbar-dropdown > li > a,
 .rd-navbar-static .rd-megamenu-list > li > a {
-  font-size: 14px;
+  font-size: 16px;
+  text-transform: capitalize;
+  font-weight: 500;
   line-height: 1.86;
   letter-spacing: 0.05em;
+  color: #333333;
+  transition: 0.25s;
+  background: transparent;
+  border-bottom: 1px solid #e1e1e1; 
 }
 
 .rd-navbar-static .rd-megamenu-list {
@@ -9617,7 +9635,8 @@ html.tablet .ui-to-top {
 .rd-navbar-fixed .rd-navbar-dropdown > li.active > a,
 .rd-navbar-fixed .rd-navbar-dropdown > li.opened > a {
   color: #ffffff;
-  background: #50ba87;
+  background: #4d4d4d;
+  
 }
 
 .rd-navbar-fixed .rd-navbar-megamenu .rd-megamenu-title {
@@ -9940,6 +9959,7 @@ html.rd-navbar-fixed-linked .page {
 .rd-navbar-sidebar .rd-navbar-dropdown li > a:hover,
 .rd-navbar-sidebar .rd-megamenu-list li > a:hover {
   color: #151515;
+  
 }
 
 .rd-navbar-sidebar .rd-navbar-dropdown li > a::before,

@@ -6846,108 +6846,18 @@ html [class*="section-"].section-top-0 {
 /* --- end of main section ---- */
 
 /* --- fabrication section ---- */
-
-
-.fabrication-submenu {
-  background: linear-gradient(50deg, #f2f2f2 50%, #d3d3d3 50%);
-  border-radius: 1;
-  height: 80px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: #fff;
-  font-size: 20px;
-  padding: 0 20px;
-  
-}
-.fabrication-submenu::before {
-  content: '';
-  display: block;
-  position: absolute;
-  width: 0;
-  height: 0;
-  border-style: solid;
-  border-width: 40px 0 40px 20px;
-  border-color: transparent transparent transparent #333333;
-  left: -20px;
-}
-
-
-.fabrication-submenu a {
-  font-family: "Codec Pro", sans-serif;
+.texte-enrenage{
+  text-align: justify;
+  font-weight: 100;
   font-size: 16px;
+  font-family: "Codec Pro", sans-serif;
   color: #333333;
 }
 
 
-.fab-navbar-nav {
-   display: flex;
-  justify-content: center; 
-  padding-top: 20px;
-  margin: 30px 0 30px 15px;
-  height: auto;
-  text-align: left;
-  border-top: 1px solid #e1e1e1;
-  text-transform: capitalize;
-  list-style: none;
-  
-} 
 
-.fab-nav-item  {
-  margin: 0 10px;
-  position: relative;
- 
-}
 
-.fab-nav-item:before {
-  content: '';
-  position: absolute;
-  bottom: -5px;
-  left: 0;
-  width: 0%;
-  height: 2px;
-  background-color: #003399;
-  transition: width 0.2s ease-in-out;
-}
 
-.fab-nav-item.active:before {
-  width: 100%;
-  color: #4d4d4d;
-  background: transparent;
-}
-
-.fab-nav-link {
- 
-    position: relative;
-    display: inline-block;
-    text-transform: capitalize;
-    font-size: 16px;
-    line-height: 1.2;
-    font-weight: 500;
-    letter-spacing: 0;
-    color: #333333;
-    transition: 0.25s;
-    font-family: "Codec Pro", sans-serif;
-    text-decoration: none;
-}
-
-.fab-nav-link:after {
-  content: "";
-  display: block;
-  bottom: -8px;
-  left: 0;
-  height: 3px;
-  width:0;
-  background: #dd2222;
-  position: absolute; 
-  transform: translateY(5px);
-  transition: all 0.2s ease;
-}
-
-.fab-nav-link:hover:after,
-.fab-nav-link:focus:after {
-  width: 100%;
-}
 
 /* .fab-nav-link.active {
   font-weight: bold;

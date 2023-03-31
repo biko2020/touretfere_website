@@ -52,10 +52,10 @@ class Header extends HTMLElement {
                   <li class="rd-nav-item">
                         <a class="rd-nav-link" href="#">fabrication</a>
                         <ul class="rd-navbar-dropdown">
-                          <li> <a href="page-fab-engrenage.html">engrenage</a> </li>
+                          <li> <a href="page-fab-engrenage.html">engrenages</a> </li>
                           <li> <a href="page-fab-reducteurs.html">réducteurs</a></li>
                           <li> <a href="page-fab-pompes.html">pompes Et Accessoires</a></li>
-                          <li><a href="page-usinage.html">usinage</a></li>
+                          <li> <a href="page-usinage.html">usinage</a></li>
                         </ul>
                  </li>
                   <li class="rd-nav-item">
@@ -63,7 +63,7 @@ class Header extends HTMLElement {
                         <ul class="rd-navbar-dropdown">
                           <li> <a href="page-reducteurs">réducteurs</a></li>
                           <li> <a href="page-pompes">pompes</a></li>
-                          <li><a href="page-mecanique">mécanique Générale</a></li>
+                          <li> <a href="page-mecanique">mécanique Générale</a></li>
                       </ul>                  
                   </li>
                   <li class="rd-nav-item">

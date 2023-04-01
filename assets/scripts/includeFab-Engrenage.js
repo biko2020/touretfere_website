@@ -59,7 +59,7 @@ class Engrenage extends HTMLElement {
           <a class="team-classic-figure" href="#">
             <img src="./assets/images/fabrication/0-engrenage.svg" alt="1" width="320" height="224" /></a>
           <div class="team-classic-caption">
-            <h5 class="team-classic-name"><a href="#">L'usinage de précision </a></h5>
+            <h5 class="team-classic-name"><a href="#">Engrenages droits </a></h5>
           </div>
         </article>
       </div>
@@ -68,7 +68,7 @@ class Engrenage extends HTMLElement {
         <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
             <img src="./assets/images/fabrication/1-engrenage.svg"" alt="2" width="320" height="224" /></a>
           <div class="team-classic-caption">
-            <h5 class="team-classic-name"><a href="#">Le prototypage rapide </a></h5>
+            <h5 class="team-classic-name"><a href="#">Engrenages gauches</a></h5>
           </div>
         </article>
       </div>
@@ -77,7 +77,7 @@ class Engrenage extends HTMLElement {
         <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
             <img src="./assets/images/fabrication/2-engrenage.svg" alt="3" width="320" height="224" /></a>
           <div class="team-classic-caption">
-            <h5 class="team-classic-name"><a href="#">La production en série</a></h5>
+            <h5 class="team-classic-name"><a href="#">Engrenages concourants </a></h5>
           </div>
         </article>
       </div>
@@ -94,7 +94,7 @@ class Engrenage extends HTMLElement {
             <a class="team-classic-figure" href="#">
             <img src="./assets/images/fabrication/3-engrenage.svg" alt="2" width="320" height="224"  /></a>
             <div class="team-classic-caption">
-              <h5 class="team-classic-name"><a href="#">L'usinage de précision </a></h5>
+              <h5 class="team-classic-name"><a href="#">Engrenage à roue et crémaillère</a></h5>
             </div>
           </article>
         </div>
@@ -103,7 +103,7 @@ class Engrenage extends HTMLElement {
           <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
               <img src="./assets/images/fabrication/4-engrenage.svg" alt="2" width="320" height="224"  /></a>
             <div class="team-classic-caption">
-              <h5 class="team-classic-name"><a href="#">Le prototypage rapide </a></h5>
+              <h5 class="team-classic-name"><a href="#">Engrenages parallèles</a></h5>
             </div>
           </article>
         </div>
@@ -112,7 +112,7 @@ class Engrenage extends HTMLElement {
           <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
               <img src="./assets/images/fabrication/5-engrenage.svg" alt="3" width="320" height="224" /></a>
             <div class="team-classic-caption">
-              <h5 class="team-classic-name"><a href="#">La production en série</a></h5>
+              <h5 class="team-classic-name"><a href="#">Engrenage à roue</a></h5>
             </div>
           </article>
         </div>
@@ -161,7 +161,7 @@ class Engrenage extends HTMLElement {
         <a class="team-classic-figure" href="#">
         <img src="./assets/images/fabrication/6-engrenage.svg" alt="2" width="320" height="224"  /></a>
         <div class="team-classic-caption">
-          <h5 class="team-classic-name"><a href="#">L'usinage de précision </a></h5>
+          <h5 class="team-classic-name"><a href="#">Engrenages cylindriques</a></h5>
         </div>
       </article>
     </div>
@@ -170,7 +170,7 @@ class Engrenage extends HTMLElement {
       <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
       <img src="./assets/images/fabrication/7-engrenage.svg" alt="2" width="320" height="224"  /></a>
         <div class="team-classic-caption">
-          <h5 class="team-classic-name"><a href="#">Le prototypage rapide </a></h5>
+          <h5 class="team-classic-name"><a href="#">Engrenages planétaires</a></h5>
         </div>
       </article>
     </div>
@@ -179,7 +179,7 @@ class Engrenage extends HTMLElement {
       <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
       <img src="./assets/images/fabrication/8-engrenage.svg" alt="2" width="320" height="224"  /></a>
         <div class="team-classic-caption">
-          <h5 class="team-classic-name"><a href="#">La production en série</a></h5>
+          <h5 class="team-classic-name"><a href="#">Engrenages hélicoïdaux</a></h5>
         </div>
       </article>
     </div>
@@ -195,7 +195,7 @@ class Engrenage extends HTMLElement {
       <a class="team-classic-figure" href="#">
       <img src="./assets/images/fabrication/9-engrenage.svg" alt="2" width="320" height="224"  /></a>
       <div class="team-classic-caption">
-        <h5 class="team-classic-name"><a href="#">L'usinage de précision </a></h5>
+        <h5 class="team-classic-name"><a href="#"> Engrenages planétaires</a></h5>
       </div>
     </article>
   </div>
@@ -204,7 +204,7 @@ class Engrenage extends HTMLElement {
     <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
     <img src="./assets/images/fabrication/10-engrenage.svg" alt="2" width="320" height="224"  /></a>
       <div class="team-classic-caption">
-        <h5 class="team-classic-name"><a href="#">Le prototypage rapide </a></h5>
+        <h5 class="team-classic-name"><a href="#">Engrenages à vis sans fin </a></h5>
       </div>
     </article>
   </div>
@@ -213,7 +213,7 @@ class Engrenage extends HTMLElement {
     <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
     <img src="./assets/images/fabrication/11-engrenage.svg" alt="2" width="320" height="224"  /></a>
       <div class="team-classic-caption">
-        <h5 class="team-classic-name"><a href="#">La production en série</a></h5>
+        <h5 class="team-classic-name"><a href="#">Engrenages coniques</a></h5>
       </div>
     </article>
   </div>

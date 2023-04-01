@@ -19,7 +19,7 @@ class Reducteur extends HTMLElement {
         <!-- image banniere-->
         <div
           class="swiper-slide context-dark"
-          data-slide-bg="assets/images/fabrication/banniere-reducteur.jpg"
+          data-slide-bg="assets/images/fabrication/banniere-reducteur.svg"
         >
           <div class="swiper-slide-caption section-md">
             <div class="container">
@@ -57,7 +57,7 @@ class Reducteur extends HTMLElement {
         <!-- Team Classic-->
         <article class="team-classic team-classic-lg">
           <a class="team-classic-figure" href="#">
-            <img src="./assets/images/fabrication/0-reducteur.png" alt="1" width="320" height="224" /></a>
+            <img src="./assets/images/fabrication/0-reducteur.svg" alt="1" width="320" height="224" /></a>
           <div class="team-classic-caption">
             <h5 class="team-classic-name"><a href="#">Réducteurs parallèles</a></h5>
           </div>
@@ -66,7 +66,7 @@ class Reducteur extends HTMLElement {
       <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".1s">
         <!-- Team Classic-->
         <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
-            <img src="./assets/images/fabrication/1-reducteur.jpeg" alt="2" width="320" height="224" /></a>
+            <img src="./assets/images/fabrication/1-reducteur.svg" alt="2" width="320" height="224" /></a>
           <div class="team-classic-caption">
             <h5 class="team-classic-name"><a href="#">Réducteurs planétaires</a></h5>
           </div>
@@ -75,7 +75,7 @@ class Reducteur extends HTMLElement {
       <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".2s">
         <!-- Team Classic-->
         <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
-            <img src="./assets/images/fabrication/2-reducteur.png" alt="3" width="320" height="224" /></a>
+            <img src="./assets/images/fabrication/2-reducteur.svg" alt="3" width="320" height="224" /></a>
           <div class="team-classic-caption">
             <h5 class="team-classic-name"><a href="#">Réducteurs orthogonaux</a></h5>
           </div>
@@ -92,7 +92,7 @@ class Reducteur extends HTMLElement {
           <!-- Team Classic-->
           <article class="team-classic team-classic-lg">
             <a class="team-classic-figure" href="#">
-            <img src="./assets/images/fabrication/3-reducteur.jpg" alt="2" width="320" height="224"  /></a>
+            <img src="./assets/images/fabrication/3-reducteur.svg" alt="2" width="320" height="224"  /></a>
             <div class="team-classic-caption">
               <h5 class="team-classic-name"><a href="#">Réducteur épicycloïdal</a></h5>
             </div>
@@ -101,7 +101,7 @@ class Reducteur extends HTMLElement {
         <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".1s">
           <!-- Team Classic-->
           <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
-              <img src="./assets/images/fabrication/4-reducteur.png" alt="2" width="320" height="224"  /></a>
+              <img src="./assets/images/fabrication/4-reducteur.svg" alt="2" width="320" height="224"  /></a>
             <div class="team-classic-caption">
               <h5 class="team-classic-name"><a href="#">Réducteurs pendulaires </a></h5>
             </div>
@@ -110,7 +110,7 @@ class Reducteur extends HTMLElement {
         <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".2s">
           <!-- Team Classic-->
           <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
-              <img src="./assets/images/fabrication/5-reducteur.jpg" alt="3" width="320" height="224" /></a>
+              <img src="./assets/images/fabrication/5-reducteur.svg" alt="3" width="320" height="224" /></a>
             <div class="team-classic-caption">
               <h5 class="team-classic-name"><a href="#">Réducteurs verticales</a></h5>
             </div>
@@ -122,7 +122,7 @@ class Reducteur extends HTMLElement {
 <section class="section section-sm section-fluid bg-default">
 <div class="container-fluid">
   <div class="row row-sm row-30">
-    <img src=" ./assets/images/fabrication/reducteur.jpg" width="480" height="420" alt="1" />
+    <img src=" ./assets/images/fabrication/reducteur.svg" width="480" height="420" alt="1" />
      <!-- RED CURVE TEXT -->
     <div class="col col-sm col-30">
     
@@ -150,7 +150,7 @@ class Reducteur extends HTMLElement {
       <!-- Team Classic-->
       <article class="team-classic team-classic-lg">
         <a class="team-classic-figure" href="#">
-        <img src="./assets/images/fabrication/6-reducteur.png" alt="2" width="320" height="224"  /></a>
+        <img src="./assets/images/fabrication/6-reducteur.svg" alt="2" width="320" height="224"  /></a>
         <div class="team-classic-caption">
           <h5 class="team-classic-name"><a href="#">Réducteurs horizontales</a></h5>
         </div>
@@ -159,7 +159,7 @@ class Reducteur extends HTMLElement {
     <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".1s">
       <!-- Team Classic-->
       <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
-      <img src="./assets/images/fabrication/7-reducteur.png" alt="2" width="320" height="224"  /></a>
+      <img src="./assets/images/fabrication/7-reducteur.svg" alt="2" width="320" height="224"  /></a>
         <div class="team-classic-caption">
           <h5 class="team-classic-name"><a href="#">Réducteurs coaxiales</a></h5>
         </div>
@@ -168,7 +168,7 @@ class Reducteur extends HTMLElement {
     <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".2s">
       <!-- Team Classic-->
       <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
-      <img src="./assets/images/fabrication/8-reducteur.png" alt="2" width="320" height="224"  /></a>
+      <img src="./assets/images/fabrication/8-reducteur.svg" alt="2" width="320" height="224"  /></a>
         <div class="team-classic-caption">
           <h5 class="team-classic-name"><a href="#">Plusieurs vitesses</a></h5>
         </div>
@@ -184,7 +184,7 @@ class Reducteur extends HTMLElement {
     <!-- Team Classic-->
     <article class="team-classic team-classic-lg">
       <a class="team-classic-figure" href="#">
-      <img src="./assets/images/fabrication/9-reducteur.jpg" alt="2" width="320" height="224"  /></a>
+      <img src="./assets/images/fabrication/9-reducteur.svg" alt="2" width="320" height="224"  /></a>
       <div class="team-classic-caption">
         <h5 class="team-classic-name"><a href="#">Entrées ou sorties multiples </a></h5>
       </div>
@@ -193,7 +193,7 @@ class Reducteur extends HTMLElement {
   <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".1s">
     <!-- Team Classic-->
     <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
-    <img src="./assets/images/fabrication/10-reducteur.jpg" alt="2" width="320" height="224"  /></a>
+    <img src="./assets/images/fabrication/10-reducteur.svg" alt="2" width="320" height="224"  /></a>
       <div class="team-classic-caption">
         <h5 class="team-classic-name"><a href="#">Réducteurs à Arbre creux </a></h5>
       </div>
@@ -202,7 +202,7 @@ class Reducteur extends HTMLElement {
   <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".2s">
     <!-- Team Classic-->
     <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
-    <img src="./assets/images/fabrication/11-reducteur.jpg" alt="2" width="320" height="224"  /></a>
+    <img src="./assets/images/fabrication/11-reducteur.svg" alt="2" width="320" height="224"  /></a>
       <div class="team-classic-caption">
         <h5 class="team-classic-name"><a href="#">Réducteurs à arbre plein</a></h5>
       </div>
@@ -214,7 +214,7 @@ class Reducteur extends HTMLElement {
 <section class="section section-sm section-fluid bg-default">
 <div class="container-fluid">
 <div class="row row-sm row-30">
-  <img src=" ./assets/images/fabrication/12-reducteur.jpg" width="680" height="620" alt="1" />
+  <img src=" ./assets/images/fabrication/12-reducteur.svg" width="680" height="620" alt="1" />
   <!-- RED CURVE -->
   <div class="red-curve">
     <img src="./assets/images/nosServices/red-line.svg" width="780" height="720" alt="1" />

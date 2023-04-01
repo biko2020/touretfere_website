@@ -18,7 +18,7 @@ class Pompes extends HTMLElement {
         <!-- image banniere-->
         <div
           class="swiper-slide context-dark"
-          data-slide-bg="assets/images/fabrication/banniere_pompes.jpg"
+          data-slide-bg="assets/images/fabrication/banniere_pompes.svg"
         >
           <div class="swiper-slide-caption section-md">
             <div class="container">
@@ -54,7 +54,7 @@ class Pompes extends HTMLElement {
         <!-- Team Classic-->
         <article class="team-classic team-classic-lg">
           <a class="team-classic-figure" href="#">
-            <img src="./assets/images/fabrication/0-pompes.png" alt="1" width="420" height="424" /></a>
+            <img src="./assets/images/fabrication/0-pompes.svg" alt="1" width="420" height="424" /></a>
           <div class="team-classic-caption">
             <h5 class="team-classic-name"><a href="#">POMPES DOSEUSES OBL</a></h5>
           </div>
@@ -63,7 +63,7 @@ class Pompes extends HTMLElement {
       <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".1s">
         <!-- Team Classic-->
         <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
-            <img src="./assets/images/fabrication/1-pompes.png" alt="2" width="420" height="424" /></a>
+            <img src="./assets/images/fabrication/1-pompes.svg" alt="2" width="420" height="424" /></a>
           <div class="team-classic-caption">
             <h5 class="team-classic-name"><a href="#">pompes standard </a></h5>
           </div>
@@ -72,7 +72,7 @@ class Pompes extends HTMLElement {
       <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".2s">
         <!-- Team Classic-->
         <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
-            <img src="./assets/images/fabrication/2-pompes.jpg" alt="3" width="420" height="424" /></a>
+            <img src="./assets/images/fabrication/2-pompes.svg" alt="3" width="420" height="424" /></a>
           <div class="team-classic-caption">
             <h5 class="team-classic-name"><a href="#">pompes spéciales</a></h5>
           </div>
@@ -88,7 +88,7 @@ class Pompes extends HTMLElement {
       <!-- Team Classic-->
       <article class="team-classic team-classic-lg">
         <a class="team-classic-figure" href="#">
-          <img src="./assets/images/fabrication/3-pompes.png" alt="1" width="420" height="424" /></a>
+          <img src="./assets/images/fabrication/3-pompes.svg" alt="1" width="420" height="424" /></a>
         <div class="team-classic-caption">
           <h5 class="team-classic-name"><a href="#">pompes pour moteur thermique </a></h5>
         </div>
@@ -97,7 +97,7 @@ class Pompes extends HTMLElement {
     <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".1s">
       <!-- Team Classic-->
       <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
-          <img src="./assets/images/fabrication/4-pompes.png" alt="2" width="420" height="424" /></a>
+          <img src="./assets/images/fabrication/4-pompes.svg" alt="2" width="420" height="424" /></a>
         <div class="team-classic-caption">
           <h5 class="team-classic-name"><a href="#">pompes pour moteur hydraulique</a></h5>
         </div>
@@ -106,7 +106,7 @@ class Pompes extends HTMLElement {
     <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".2s">
       <!-- Team Classic-->
       <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
-          <img src="./assets/images/fabrication/5-pompes.png" alt="3" width="420" height="424" /></a>
+          <img src="./assets/images/fabrication/5-pompes.svg" alt="3" width="420" height="424" /></a>
         <div class="team-classic-caption">
           <h5 class="team-classic-name"><a href="#">Moto-pompe électrique</a></h5>
         </div>
@@ -119,7 +119,7 @@ class Pompes extends HTMLElement {
 <section class="section section-sm section-fluid bg-default">
 <div class="container-fluid">
   <div class="row row-sm row-30">
-    <img src=" ./assets/images/fabrication/6-pompes.jpg" width="680" height="620" />
+    <img src=" ./assets/images/fabrication/6-pompes.svg" width="680" height="620" />
     <!-- RED CURVE -->
     <div class="red-curve">
       <img src="./assets/images/nosServices/red-line.svg" width="780" height="720"  />
@@ -157,7 +157,7 @@ class Pompes extends HTMLElement {
       <!-- Team Classic-->
       <article class="team-classic team-classic-lg">
         <a class="team-classic-figure" href="#">
-          <img src="./assets/images/fabrication/7-pompes.png" alt="1" width="420" height="424" /></a>
+          <img src="./assets/images/fabrication/7-pompes.svg" alt="1" width="420" height="424" /></a>
         <div class="team-classic-caption">
           <h5 class="team-classic-name"><a href="#">NVBR</a></h5>
         </div>
@@ -166,7 +166,7 @@ class Pompes extends HTMLElement {
     <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".1s">
       <!-- Team Classic-->
       <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
-          <img src="./assets/images/fabrication/8-pompes.jpg" alt="2" width="420" height="424" /></a>
+          <img src="./assets/images/fabrication/8-pompes.svg" alt="2" width="420" height="424" /></a>
         <div class="team-classic-caption">
           <h5 class="team-classic-name"><a href="#">NVBH</a></h5>
         </div>
@@ -175,7 +175,7 @@ class Pompes extends HTMLElement {
     <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".2s">
       <!-- Team Classic-->
       <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
-          <img src="./assets/images/fabrication/9-pompes.png" alt="3" width="420" height="424" /></a>
+          <img src="./assets/images/fabrication/9-pompes.svg" alt="3" width="420" height="424" /></a>
         <div class="team-classic-caption">
           <h5 class="team-classic-name"><a href="#">VBT</a></h5>
         </div>
@@ -191,7 +191,7 @@ class Pompes extends HTMLElement {
     <!-- Team Classic-->
     <article class="team-classic team-classic-lg">
       <a class="team-classic-figure" href="#">
-        <img src="./assets/images/fabrication/10-pompes.png" alt="1" width="420" height="424" /></a>
+        <img src="./assets/images/fabrication/10-pompes.svg" alt="1" width="420" height="424" /></a>
       <div class="team-classic-caption">
         <h5 class="team-classic-name"><a href="#">VB 80/280</a></h5>
       </div>
@@ -200,7 +200,7 @@ class Pompes extends HTMLElement {
   <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".1s">
     <!-- Team Classic-->
     <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
-        <img src="./assets/images/fabrication/11-pompes.png" alt="2" width="420" height="424" /></a>
+        <img src="./assets/images/fabrication/11-pompes.svg" alt="2" width="420" height="424" /></a>
       <div class="team-classic-caption">
         <h5 class="team-classic-name"><a href="#">CHEM MM</a></h5>
       </div>
@@ -209,7 +209,7 @@ class Pompes extends HTMLElement {
   <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".2s">
     <!-- Team Classic-->
     <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#">
-        <img src="./assets/images/fabrication/12-pompes.png" alt="3" width="420" height="424" /></a>
+        <img src="./assets/images/fabrication/12-pompes.svg" alt="3" width="420" height="424" /></a>
       <div class="team-classic-caption">
         <h5 class="team-classic-name"><a href="#">jetter valves</a></h5>
       </div>
@@ -221,7 +221,7 @@ class Pompes extends HTMLElement {
 <section class="section section-sm section-fluid bg-default">
 <div class="container-fluid">
 <div class="row row-sm row-30">
-  <img src=" ./assets/images/fabrication/13-pompes.png" width="680" height="620" alt="1" />
+  <img src=" ./assets/images/fabrication/13-pompes.svg" width="680" height="620" alt="1" />
   <!-- RED CURVE -->
   <div class="red-curve">
     <img src="./assets/images/nosServices/red-line.svg" width="780" height="720" alt="1" />

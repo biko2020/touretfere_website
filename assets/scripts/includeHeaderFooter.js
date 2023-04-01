@@ -55,7 +55,7 @@ class Header extends HTMLElement {
                           <li> <a href="page-fab-engrenage.html">engrenages</a> </li>
                           <li> <a href="page-fab-reducteurs.html">réducteurs</a></li>
                           <li> <a href="page-fab-pompes.html">pompes Et Accessoires</a></li>
-                          <li> <a href="page-usinage.html">usinage</a></li>
+                          <li> <a href="page-fad-usinage.html">usinage</a></li>
                         </ul>
                  </li>
                   <li class="rd-nav-item">

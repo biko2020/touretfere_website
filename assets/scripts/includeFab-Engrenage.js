@@ -19,7 +19,7 @@ class Engrenage extends HTMLElement {
         <!-- image banniere-->
         <div
           class="swiper-slide context-dark"
-          data-slide-bg="assets/images/fabrication/bannier-engrenage.jpg"
+          data-slide-bg="assets/images/fabrication/bannier-engrenage.svg"
         >
           <div class="swiper-slide-caption section-md">
             <div class="container">

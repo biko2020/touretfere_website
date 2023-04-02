@@ -120,10 +120,6 @@ class Pompes extends HTMLElement {
 <div class="container-fluid">
   <div class="row row-sm row-30">
     <img src=" ./assets/images/fabrication/6-pompes.svg" width="680" height="620" />
-    <!-- RED CURVE -->
-    <div class="red-curve">
-      <img src="./assets/images/nosServices/red-line.svg" width="780" height="720"  />
-    </div>
 
     <!-- RED CURVE TEXT -->
     <div class="col col-sm col-30">
@@ -223,9 +219,7 @@ class Pompes extends HTMLElement {
 <div class="row row-sm row-30">
   <img src=" ./assets/images/fabrication/13-pompes.svg" width="680" height="620" alt="1" />
   <!-- RED CURVE -->
-  <div class="red-curve">
-    <img src="./assets/images/nosServices/red-line.svg" width="780" height="720" alt="1" />
-  </div>
+ 
 
   <!-- RED CURVE TEXT -->
   <div class="col col-sm col-30">

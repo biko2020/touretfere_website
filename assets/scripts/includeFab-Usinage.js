@@ -19,7 +19,7 @@ class Usinage extends HTMLElement {
         <!-- image banniere-->
         <div
           class="swiper-slide context-dark"
-          data-slide-bg="assets/images/fabrication/banniere-usinage.jpg"
+          data-slide-bg="assets/images/fabrication/banniere-usinage.svg"
         >
           <div class="swiper-slide-caption section-md">
             <div class="container">

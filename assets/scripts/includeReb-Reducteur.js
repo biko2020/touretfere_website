@@ -3,7 +3,7 @@ class Reducteur extends HTMLElement {
   connectedCallback(){
     this.innerHTML = `
 
-    <!-- section fabrication submenu -->
+    <!-- section Réparation submenu -->
 
 
     <!-- Slider de Milieu-->
@@ -19,13 +19,13 @@ class Reducteur extends HTMLElement {
         <!-- image banniere-->
         <div
           class="swiper-slide context-dark"
-          data-slide-bg="assets/images/fabrication/banniere-reducteur.svg"
+          data-slide-bg="assets/images/fabrication/banniere-reb-reducteur.svg"
         >
           <div class="swiper-slide-caption section-md">
             <div class="container">
                 <h2 data-caption-animate="fadeInLeft" data-caption-delay="0">
                 
-                  Fabrication Réducteurs
+                Réparation Réducteurs
                
                 
                 </h2>
@@ -36,17 +36,17 @@ class Reducteur extends HTMLElement {
       </div>
     </section>
 <!-- ------- ------- ------- ------ ------ --------- ------ -------- ------- ------ ----->
-  <!-- section fabrication réducteur -->
+  <!-- section Réparation Reducteur -->
 
   <section class="section section-sm section-fluid bg-default">
   <div class="container-fluid">
     <!-- main-title -->
     <div class="main-title">
       
-      <h2> Fabrication de réducteurs spéciaux </h2>
+      <h2> Réparation de réducteurs </h2>
       
       <p class="texte-enrenage">
-      Notre entreprise se concentre sur la création et la production de pièces de transmission pour l'industrie. Ces pièces comprennent des réducteurs, des engrenages, des vérins mécaniques, des pompes, et bien plus encore. Nous sommes en mesure de fournir des solutions sur mesure pour divers secteurs tels que le fere, le plastique, l'acier, l'aluminium, les bancs d'essai, et bien d'autres encore.
+      Notre entreprise Tour et Fere est spécialisée dans la réparation de réducteurs. Nous offrons des services complets de réparation, de maintenance et de remplacement pour une variété de réducteurs de différents types et tailles. Notre équipe de techniciens hautement qualifiés et expérimentés est équipée des outils les plus modernes pour diagnostiquer les problèmes de votre réducteur et le réparer rapidement et efficacement. Nous nous engageons à fournir un service de qualité supérieure à nos clients, en veillant à ce que leur équipement soit opérationnel à tout moment. Chez Tour et Fere, nous sommes fiers de notre capacité à fournir des solutions sur mesure pour répondre aux besoins spécifiques de nos clients. Contactez-nous dès aujourd'hui pour plus d'informations sur nos services de réparation de réducteurs.
       </p>
     </div>
    <div class="space">
@@ -122,12 +122,13 @@ class Reducteur extends HTMLElement {
 <section class="section section-sm section-fluid bg-default">
 <div class="container-fluid">
   <div class="row row-sm row-30">
-    <img src=" ./assets/images/fabrication/reducteur.svg" width="480" height="420" alt="1" />
+    <img src=" ./assets/images/fabrication/reducteur-reb.svg" width="480" height="420" alt="1" />
      <!-- RED CURVE TEXT -->
     <div class="col col-sm col-30">
     
       <div class="red-curve-text">
-        <p>Nous sommes des fabricants de réducteurs industriels spécialisés dans la création de solutions complètes pour répondre aux besoins de nos clients en matière de transmission. Nous proposons des réducteurs sur mesure pour différents secteurs tels que la manutention, la construction, la production d'énergie, l'agriculture, l'exploitation minière et bien d'autres encore. Nos réducteurs industriels sont conçus pour offrir une performance fiable, une durée de vie prolongée et une efficacité énergétique optimale. Nous travaillons en étroite collaboration avec nos clients pour comprendre leurs besoins et leur fournir des solutions de réducteurs industriels personnalisées qui répondent à leurs exigences spécifiques. Qu'il s'agisse de nouveaux projets de conception ou de rénovations, nous sommes là pour fournir des réducteurs de transmission de qualité supérieure. </p>
+        <p>Notre domaine de spécialisation réside dans fabrécation et la réparation des réducteurs industriels et nous offrons des solutions complètes pour répondre aux besoins de nos clients en matière de transmission. Nous proposons des services de réparation sur mesure pour différents secteurs tels que la manutention, la construction, la production d'énergie, l'agriculture, l'exploitation minière et bien d'autres encore. Nos techniciens hautement qualifiés travaillent en étroite collaboration avec nos clients pour comprendre leurs besoins et leur fournir des solutions de réparation de réducteurs personnalisées qui répondent à leurs exigences spécifiques. Nous nous engageons à fournir un service de qualité supérieure, en utilisant des outils modernes pour diagnostiquer les problèmes et réparer les réducteurs rapidement et efficacement. Qu'il s'agisse de réparations simples ou de projets plus complexes, nous sommes là pour fournir des services de réparation de transmission de qualité supérieure.
+      </p>
 
       </div>
 
@@ -242,4 +243,4 @@ class Reducteur extends HTMLElement {
 
   }
 }
-customElements.define("include-fab-reducteur", Reducteur);
+customElements.define("include-reb-reducteur", Reducteur);

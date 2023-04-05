@@ -204,9 +204,6 @@ class Mecanique extends HTMLElement {
       <div class="col col-sm col-30">
         <div class="red-curve-text">
 
-          <p>
-
-          </p>
         </div>
       </div>
     </div>
@@ -262,9 +259,7 @@ class Mecanique extends HTMLElement {
       <div class="col col-sm col-30">
         <div class="red-curve-text">
 
-          <p>
-
-          </p>
+        <br><br> <br><br>
         </div>
       </div>
     </div>

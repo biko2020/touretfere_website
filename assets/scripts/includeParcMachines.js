@@ -70,7 +70,7 @@ class ParcMachines extends HTMLElement {
 
     <div class="row row-sm row-30">
 
-      <img src=" ./assets/images/nosServices/1-680x620.svg" width="680" height="620" alt="1" />
+      <img src=" ./assets/images/nosMoyens/0-parc.svg" width="680" height="620" alt="1" />
       <!-- RED CURVE -->
       <div class="red-curve">
         <img src="./assets/images/nosServices/red-line.svg" width="780" height="720" alt="1" />
@@ -118,7 +118,7 @@ class ParcMachines extends HTMLElement {
         </div>
       </div>    
     
-      <img src=" ./assets/images/nosServices/1-680x620.svg" width="680" height="620" alt="1" />
+      <img src=" ./assets/images/nosMoyens/1-parc.svg" width="680" height="620" alt="1" />
       <!-- RED CURVE -->
   
     </div>
@@ -133,7 +133,7 @@ class ParcMachines extends HTMLElement {
 
     <div class="row row-sm row-30">
 
-      <img src=" ./assets/images/nosServices/1-680x620.svg" width="680" height="620" alt="1" />
+      <img src=" ./assets/images/nosMoyens/2-parc.svg" width="680" height="620" alt="1" />
       <!-- RED CURVE -->
       <div class="red-curve">
         <img src="./assets/images/nosServices/red-line.svg" width="780" height="720" alt="1" />
@@ -182,7 +182,7 @@ class ParcMachines extends HTMLElement {
         </div>
       </div>    
     
-      <img src=" ./assets/images/nosServices/1-680x620.svg" width="680" height="620" alt="1" />
+      <img src=" ./assets/images/nosMoyens/3-parc.svg" width="680" height="620" alt="1" />
       <!-- RED CURVE -->
   
     </div>

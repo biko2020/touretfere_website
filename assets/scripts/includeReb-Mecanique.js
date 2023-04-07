@@ -1,7 +1,7 @@
 
 // add section fabrication
 class Mecanique extends HTMLElement {
-  connectedCallback(){
+  connectedCallback() {
     this.innerHTML = `
 
     <!-- section Mécanique générale submenu -->

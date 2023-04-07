@@ -6865,13 +6865,40 @@ html [class*="section-"].section-top-0 {
   font-family: "Codec Pro", sans-serif;
 } */
 
-
-
-
 /* --- apropos section ---- */
 
 .text-apropos p {
   text-align: justify;
+  font-weight: 100;
+  font-size: 16px;
+  font-family: "Codec Pro", sans-serif;
+  color: #333333;
+}
+
+/* --- Parc Machines section ---- */
+.bg-Parc {
+  display: flex;
+  background: #ECF2FF !important;
+  width: 100%;
+  
+}
+
+
+/*  TEXT  PARC*/
+.container-fluid .red-parc-text {
+  display: block;
+  position: relative;
+  flex-direction: column;
+  /* transform: translateY(0%);  */
+  font-family: "Codec Pro", sans-serif;
+  align-content: center;
+  bottom: 0;
+  top: 80px;
+  left: 5px;
+  width: 100%;
+  text-align: justify;
+}
+.red-parc-text p {
   font-weight: 100;
   font-size: 16px;
   font-family: "Codec Pro", sans-serif;

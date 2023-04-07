@@ -6,7 +6,7 @@ class MoyensControle extends HTMLElement {
   data-simulate-touch="true" data-direction="vertical" data-nav="false">
   <div class="swiper-wrapper text-center">
     <!-- image banniere-->
-    <div class="swiper-slide context-dark" data-slide-bg="assets/images/nosMoyens/bannier-moyenControle.svg">
+    <div class="swiper-slide context-dark" data-slide-bg="assets/images/nosMoyens/bannier-controle.svg">
       <div class="swiper-slide-caption section-md">
         <div class="container">
           <h2 data-caption-animate="fadeInLeft" data-caption-delay="0">
@@ -62,7 +62,7 @@ class MoyensControle extends HTMLElement {
       <div><br></div>
         <article class="team-classic team-classic-lg">
           <a class="img-qualite" href="#">
-            <img src="./assets/images/nosMoyens/0-controle.jpg" alt="1" width="204" height="226" /></a>
+            <img src="./assets/images/nosMoyens/0-controle.svg" alt="1" width="204" height="226" /></a>
         </article>
         <div><br></div>
         <div class="qualite-text">
@@ -84,7 +84,7 @@ class MoyensControle extends HTMLElement {
         <div><br></div>
         <article class="team-classic team-classic-lg">
           <a class="img-qualite" href="#">
-            <img src="./assets/images/nosMoyens/1-controle.jpg" alt="1" width="204" height="226" /></a>
+            <img src="./assets/images/nosMoyens/1-controle.svg" alt="1" width="204" height="226" /></a>
         </article>
         <div><br></div>
         <div class="qualite-text">
@@ -107,7 +107,7 @@ class MoyensControle extends HTMLElement {
       <div><br></div>
         <article class="team-classic team-classic-lg">
           <a class="img-qualite" href="#">
-            <img src="./assets/images/nosMoyens/2-controle.jpg" alt="1" width="204" height="226" /></a>
+            <img src="./assets/images/nosMoyens/2-controle.svg" alt="1" width="204" height="226" /></a>
         </article>
         <div><br></div>
         <div class="qualite-text">
@@ -135,7 +135,7 @@ class MoyensControle extends HTMLElement {
       <div><br></div>
         <article class="team-classic team-classic-lg">
           <a class="img-qualite" href="#">
-            <img src="./assets/images/nosMoyens/3-controle.jpg" alt="1" width="204" height="226" /></a>
+            <img src="./assets/images/nosMoyens/3-controle.svg" alt="1" width="204" height="226" /></a>
         </article>
         <div><br></div>
         <div class="qualite-text">
@@ -158,7 +158,7 @@ class MoyensControle extends HTMLElement {
         <div><br></div>
         <article class="team-classic team-classic-lg">
           <a class="img-qualite" href="#">
-            <img src="./assets/images/nosMoyens/5-controle.png" alt="1" width="204" height="226" /></a>
+            <img src="./assets/images/nosMoyens/5-controle.svg" alt="1" width="204" height="226" /></a>
         </article>
         <div><br></div>
         <div class="qualite-text">
@@ -181,7 +181,7 @@ class MoyensControle extends HTMLElement {
       <div><br></div>
         <article class="team-classic team-classic-lg">
           <a class="img-qualite" href="#">
-            <img src="./assets/images/nosMoyens/6-controle.png" alt="1" width="204" height="226" /></a>
+            <img src="./assets/images/nosMoyens/6-controle.svg" alt="1" width="204" height="226" /></a>
         </article>
         <div><br></div>
         <div class="qualite-text">
@@ -211,7 +211,7 @@ class MoyensControle extends HTMLElement {
       <div><br></div>
         <article class="team-classic team-classic-lg">
           <a class="img-qualite" href="#">
-            <img src="./assets/images/nosMoyens/7-controle.jpg" alt="1" width="204" height="226" /></a>
+            <img src="./assets/images/nosMoyens/7-controle.svg" alt="1" width="204" height="226" /></a>
         </article>
         <div><br></div>
         <div class="qualite-text">
@@ -234,7 +234,7 @@ class MoyensControle extends HTMLElement {
       <div><br></div>
         <article class="team-classic team-classic-lg">
           <a class="img-qualite" href="#">
-            <img src="./assets/images/nosMoyens/8-controle.jpg" alt="1" width="204" height="226" /></a>
+            <img src="./assets/images/nosMoyens/8-controle.svg" alt="1" width="204" height="226" /></a>
         </article>
         <div><br></div>
         <div class="qualite-text">
